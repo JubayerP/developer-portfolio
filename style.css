@@ -12,6 +12,7 @@ body{
 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .top-banner{
     background-image: url('./images/top-banner.png');
@@ -39,4 +40,10 @@ h1{
     padding: 10px 40px;
     font-weight: 500;
     border-radius: 5px;
+}
+.dream-big{
+    align-items: center;
+    background-image: url('./images/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
 }
